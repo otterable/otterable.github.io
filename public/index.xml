@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech specs on Ermine e-bikes</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Tech specs on Ermine e-bikes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>The idea for an ermine e-bike was birthed out of my own needs. There wasn&amp;rsquo;t a bike The issues being:
+High purchase costs Incovenience of rentals (having to return bikes to a station, not being able to take it home) Market-wide speed limit of 25 km/h (no matter how &amp;ldquo;luxurious&amp;rdquo; bike you purchase, it has the exactly same specs LOL) Low wattage So, I created my own solution. With a cute otter on it.</description>
+    </item>
+    
+  </channel>
+</rss>
