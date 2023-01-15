@@ -1,9 +1,10 @@
 baseURL = "https://otterable.github.io/"
 languageCode = "en-us"
-title = "Ermine "
+title = "Ermine.de"
 theme = "Aditu"
 paginate = 9
 themesDir = "themes"
+
 
 #-------------------------------
 # Main Menu
