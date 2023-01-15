@@ -10,3 +10,5 @@ image= '/bike.png'
 
 
 ### I enjoy tinkering with e-bikes and e-scooters - install car horns, do paint jobs, connect random stuff to batteries.
+
+{{< checkout-button >}}

@@ -3,7 +3,7 @@
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <button
-  style="background-color:#000000;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
+  style="background-color:#654321;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em;cursor:pointer"
   id="checkout-button-price_1Lxp9oEgtx1au46GD3clX3Mp"
   role="link"
   type="button"
@@ -33,8 +33,8 @@
        * Instead use one of the strategies described in
        * https://stripe.com/docs/payments/checkout/fulfill-orders
        */
-      successUrl: window.location.protocol + '//ermine.bike/success',
-      cancelUrl: window.location.protocol + '//ermine.bike/canceled',
+      successUrl: window.location.protocol + '//ermine.de/success',
+      cancelUrl: window.location.protocol + '//ermine.de/canceled',
     })
     .then(function (result) {
       if (result.error) {
