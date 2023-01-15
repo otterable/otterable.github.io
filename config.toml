@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Ermine.de"
 theme = "Aditu"
 paginate = 9
-themesDir = "themes"
-
 
 #-------------------------------
 # Main Menu
