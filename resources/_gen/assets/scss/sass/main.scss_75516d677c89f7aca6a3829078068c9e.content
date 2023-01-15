@@ -1707,7 +1707,7 @@ table tr:hover {
   width: 100%;
   margin: 35px 0;
   transition: all 0.2s;
-  color: #fff; }
+  color: #000000; }
   @media only screen and (max-width: 992px) {
     .header {
       margin: 25px 0; } }
