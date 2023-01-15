@@ -1,0 +1,12 @@
+<div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-info">
+    <div class="footer-logo">
+      {{ if .Site.Params.logo }}
+      <img class="logo__image" src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="{{ .Site.Title }}">
+      {{ else }}
+        {{ .Site.Title }}
+      {{ end }}
+    </div>
+    <p class="footer-desc">{{ .Site.Params.hero.hero__description }}</p>
+  </div>
+</div>

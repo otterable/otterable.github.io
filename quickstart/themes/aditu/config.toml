@@ -1,0 +1,73 @@
+#-------------------------------
+# General Site Settings
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Aditu"
+googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+paginate = 9
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact Me"
+    url = "/contact"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "styleguide"
+    name = "Style Guide"
+    url = "/styleguide"
+    weight = 4
+
+
+[params]
+  logo = "" # You can add own logo. For example "/images/logo.png".
+  description = "Aditu is a stylish and modern dark theme with a clean and unique design."
+
+
+
+  #-------------------------------
+  # Hero Settings
+
+ 
+
+  # Example of adding a new link to the author section and footer:
+  # [[params.social]]
+  #   icon = "ion-logo-vimeo"
+  #   name = "Vimeo"
+  #   link = "https://vimeo.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+  #-------------------------------
+ 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false

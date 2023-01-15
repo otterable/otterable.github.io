@@ -1,0 +1,59 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ermine "
+theme = "Aditu"
+paginate = 9
+
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "buy"
+    name = "Buy Otter E-bikes"
+    url = "/posts/ermine-bikes"
+    weight = 2
+
+
+[params]
+  logo = "/images/ottor2.png" # You can add own logo. For example "/images/logo.png".
+  description = "Aditu is a stylish and modern dark theme with a clean and unique design."
+
+
+
+  #-------------------------------
+  # Hero Settings
+  [params.hero]
+
+  # Example of adding a new link to the author section and footer:
+  # [[params.social]]
+  #   icon = "ion-logo-vimeo"
+  #   name = "Vimeo"
+  #   link = "https://vimeo.com"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+  #-------------------------------
+  
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false

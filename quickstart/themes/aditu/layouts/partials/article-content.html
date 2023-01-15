@@ -1,0 +1,34 @@
+<div class="article col col-4 col-d-6 col-t-12 grid__post animate">
+  <div class="article__inner">
+
+    {{ if ( in .Params.featured "true") }}
+    <span class="featured-post"><i class="ion ion-md-star"></i></span>
+    {{ end }}
+
+    <a class="article__image" href="{{ .RelPermalink }}">
+      <img src="{{.Params.Image | absURL }}" alt="{{ .Title }}">
+    </a>
+
+    <div class="article__content">
+
+      <div class="article__bottom">
+        {{ if .Params.tags }}
+        <div class="article-tags__box">
+          {{ range ($.GetTerms "tags") }}
+          <a href="{{ .Permalink }}" class="article__tag">{{ .LinkTitle }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+
+      <h2 class="article__title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+
+      <p class="article__excerpt">{{ if .Description }}{{ .Description }}{{ else }}{{ truncate 95 .Summary | safeHTML }}{{ end }}</p>
+
+   
+
+    </div>
+  </div>
+</div>

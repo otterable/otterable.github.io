@@ -1,7 +1,0 @@
-# sitetest
-
-test
-
-test
-
-test

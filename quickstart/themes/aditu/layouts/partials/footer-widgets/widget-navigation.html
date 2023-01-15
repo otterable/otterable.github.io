@@ -1,0 +1,14 @@
+<div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-nav">
+    <div class="widget__head">
+      <h3 class="widget__title">Menu</h3>
+    </div>
+    <ul class="nav__list list-reset">
+      {{ range.Site.Menus.main }}
+      <li class="nav__item">
+        <a href="{{ .URL }}" class="nav__link">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
