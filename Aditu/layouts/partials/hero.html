@@ -1,0 +1,30 @@
+<!-- begin hero -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      {{ if .Site.Params.hero.hero__image }}
+      <section class="hero">
+        <div class="hero__inner">
+          <div class="hero__image">
+            <img src="{{ .Site.Params.hero.hero__image }}" alt="{{ .Site.Params.hero.hero__title }}">
+          </div>
+          <div class="hero__content">
+            <h1 class="hero__title">{{ .Site.Params.hero.hero__title }}</h1>
+            <p class="hero__desc">{{ .Site.Params.hero.hero__description }}</p>
+          </div>
+        </div>
+      </section>
+      {{ else }}
+      <section class="hero-without-image">
+        <div class="hero-inner">
+          <div class="hero-content">
+            <h1 class="hero__title">{{ .Site.Params.hero.hero__title }}</h1>
+            <p class="hero__desc">{{ .Site.Params.hero.hero__description }}</p>
+          </div>
+        </div>
+      </section>
+      {{ end }}
+    </div>
+  </div>
+</div>
+<!-- begin hero -->

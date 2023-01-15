@@ -1,0 +1,21 @@
+{{ $paginator := .Paginator }}
+{{ if gt $paginator.TotalPages 1 }}
+<!-- begin pagination -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="load-more-section">
+        <button class="load-more-posts button button--middle">Load More Posts <i class="ion ion-ios-arrow-down"></i></button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end pagination -->
+{{ end }}
+
+<script>
+  var base_url = "",
+  pagination_next_url = base_url + '/page2',
+  pagination_next_page_number = '{{ add .Paginator.PageNumber 1 }}',
+  pagination_available_pages_number = '{{ .Paginator.TotalPages }}';
+</script>
