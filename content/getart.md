@@ -25,7 +25,7 @@ image:  '/molen1.jpg'
 ##### Alongside with a 4K .png + .ai file, the print itself (cropped A3) can be sent via post worldwide free of charge.
 
 
-##### Feel free to specify all of this either in my 🢂[contact form](/contact)🢀 or straight up in the checkout options.
+##### Feel free to specify all of this in my 🢂[contact form.](/contact)🢀
 
 ‎{{< checkout-button-art >}}
-‎{{< checkout-button-transit >}}
+{{< checkout-button-transit >}}

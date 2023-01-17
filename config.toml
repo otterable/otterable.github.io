@@ -24,13 +24,13 @@ defaultContentLanguage = 'en'
 
   [[menu.main]]
     identifier = "buy"
-    name = "Get an Otter E-bike ♥"
+    name = "Get an Otter e-bike ♥"
     url = "/buyotterbike"
     weight = 2
 	
   [[menu.main]]
     identifier = "art"
-    name = "Get art/maps ♥"
+    name = "Request art/maps ♥"
     url = "/getart"
     weight = 3
 	
