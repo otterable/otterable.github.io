@@ -1715,7 +1715,7 @@ table tr:hover {
   position: relative;
   display: flex;
   justify-content: space-between;
-  align-items: center; }
+  align-items: right; }
 
 /* Logo */
 .logo__link {
@@ -1739,13 +1739,13 @@ table tr:hover {
 .main-nav {
   width: 100%;
   max-width: 1300px;
-  margin: 0 auto; }
+  margin: 15 auto; }
 
 .main-nav__box {
-  display: flex;
+  display: none;
   align-items: center;
   width: 80%;
-  padding-top: 200px;
+  padding-top: 20px;
   margin: 0 auto; }
   .main-nav__box .nav__icon-close {
     position: absolute;
@@ -1808,9 +1808,11 @@ table tr:hover {
         opacity: 0;
         visibility: hidden;
         background-color: #FFFF00; }
-  @media only screen and (max-width: 992px) {
+  @media only screen and (max-width: 576px) {
     .top-nav {
-      display: none; } }
+      display: flex;
+      padding-left: 50px;
+      align-items: center; } }
 .mobile-nav .nav__list .nav__item {
   display: block;
   margin-bottom: 35px;
@@ -2258,7 +2260,7 @@ table tr:hover {
     transform: translateY(-5px); }
   @media only screen and (max-width: 576px) {
     .article {
-      min-height: 280px; } }
+      min-height: x; } }
 .article__inner {
   position: relative;
   display: flex;
@@ -2301,7 +2303,7 @@ table tr:hover {
     color: #98fb98; }
   @media only screen and (max-width: 576px) {
     .article__title {
-      margin: 5px 0 150px;
+      margin: 5px 0 25px;
       font-size: 40px; } }
 .article__excerpt {
   margin-bottom: 15px;
