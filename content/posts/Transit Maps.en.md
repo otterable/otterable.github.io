@@ -2,9 +2,10 @@
 title:  Custom transit maps
 image:  '/vaporwave.jpg'
 ---
-### Highly stylized transit maps in several standardized artstyles, with slight variatons possible.
+### I create highly stylized public transit maps in several standardized artstyles. 
 
-### Average map using styles below takes 2-3 hours to make.
+
+### I will happily create maps of other cities in the styles below.
 ‎
 ‎
 # Vaporwave

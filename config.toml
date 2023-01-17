@@ -1,9 +1,19 @@
 baseURL = "https://otterable.github.io/"
-languageCode = "en-us"
-title = "Ermine.de"
 paginate = 9
 
 #-------------------------------
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+     title = "Ermine.de"
+  [languages.de]
+     title = "Ermine.de"
+
+
+
+
+
+
 # Main Menu
 [menu]
   [[menu.main]]
@@ -14,9 +24,16 @@ paginate = 9
 
   [[menu.main]]
     identifier = "buy"
-    name = "Buy Otter E-bikes"
-    url = "/posts/ermine-bikes"
+    name = "Get an Otter E-bike ♥"
+    url = "/buyotterbike"
     weight = 2
+	
+  [[menu.main]]
+    identifier = "art"
+    name = "Get art/maps ♥"
+    url = "/getart"
+    weight = 3
+	
 
 
 [params]
