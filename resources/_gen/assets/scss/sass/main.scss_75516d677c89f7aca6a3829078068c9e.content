@@ -1734,7 +1734,9 @@ table tr:hover {
 
 .logo__image {
   max-height: 80px; }
-
+  @media only screen and (max-width: 576px) {
+    .logo__image {
+      max-height: 120px; } }
 /* Nav */
 .main-nav {
   width: 100%;
@@ -1779,12 +1781,13 @@ table tr:hover {
   align-items: center; }
 
 .top-nav {
-  margin-right: 25px; }
+  margin-right: 0px; }
   .top-nav .nav__list .nav__item {
     display: inline-block;
-    margin-right: 25px; }
+    margin-right: 20px; }
     .top-nav .nav__list .nav__item:last-child {
-      margin-right: 0; }
+      margin-right: 0;
+      margin-bottom: 0px; }
     .top-nav .nav__list .nav__item .nav__link {
       position: relative;
       font-size: 20px;
@@ -1810,15 +1813,15 @@ table tr:hover {
         background-color: #FFFF00; }
   @media only screen and (max-width: 576px) {
     .top-nav {
-      display: flex;
-      padding-left: 50px;
+      display: inline;
+      padding-left: 35px;
       align-items: center; } }
 .mobile-nav .nav__list .nav__item {
-  display: block;
+  display: line;
   margin-bottom: 35px;
-  text-align: center; }
+  text-align: right; }
   .mobile-nav .nav__list .nav__item:last-child {
-    margin-bottom: 0; }
+    margin-bottom: 50 px; }
   .mobile-nav .nav__list .nav__item .nav__link {
     position: relative;
     font-size: 18px;
@@ -2300,11 +2303,11 @@ table tr:hover {
   margin: 10px 0 15px;
   font-size: 35px; }
   .article__title a {
-    color: #98fb98; }
+    color: #fff600; }
   @media only screen and (max-width: 576px) {
     .article__title {
       margin: 5px 0 25px;
-      font-size: 40px; } }
+      font-size: 35px; } }
 .article__excerpt {
   margin-bottom: 15px;
   font-size: 0px;
@@ -2342,7 +2345,7 @@ table tr:hover {
   padding: 0 30px 30px; }
   @media only screen and (max-width: 576px) {
     .article__content {
-      padding: 30px; } }
+      padding: 0px 30px 0px; } }
 .article__meta {
   display: flex;
   align-items: center;

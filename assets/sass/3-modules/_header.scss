@@ -36,7 +36,9 @@
 
 .logo__image {
   max-height:  80px;
-  
+  @media only screen and (max-width: $mobile) {
+    max-height:  120px;
+  }
 }
 
 /* Nav */
@@ -94,13 +96,15 @@
 }
 
 .top-nav {
-  margin-right: 25px;
+  margin-right: 0px;
   .nav__list {
     .nav__item {
       display: inline-block;
-      margin-right: 25px;
+      margin-right: 20px;
       &:last-child {
         margin-right: 0;
+		      margin-bottom:0px;
+
       }
 
       .nav__link {
@@ -135,8 +139,8 @@
   }
 
   @media only screen and (max-width: $mobile) {
-    display: flex;
-	padding-left: 50px;
+    display: inline;
+	padding-left: 35px;
 		  align-items: center;
 
 	
@@ -146,11 +150,11 @@
 .mobile-nav {
   .nav__list {
     .nav__item {
-      display: block;
+      display: line;
       margin-bottom: 35px;
-      text-align: center;
+      text-align: right;
       &:last-child {
-        margin-bottom: 0;
+        margin-bottom: 50 px;
       }
 
       .nav__link {

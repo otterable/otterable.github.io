@@ -57,12 +57,11 @@
   margin: 10px 0 15px;
   font-size: 35px;
   a {
-    color: 					#98fb98;
+    color:#fff600;
   }
   @media only screen and (max-width: $mobile) {
     margin: 5px 0 25px;
-    font-size: 40px;
-  }
+    font-size: 35px;  }
 }
 
 .article__excerpt {
@@ -111,7 +110,8 @@
   padding: 0 30px 30px;
   
   @media only screen and (max-width: $mobile) {
-    padding: 30px;
+      padding: 0px 30px 0px;
+
   }
 }
 
