@@ -5,7 +5,7 @@ image:  '/otterferret1.jpg'
 
 # I'll be happy to answer any questions and requests. sent to: majer@ermine.de
 
-##### 🡻 🡻 🡻   Or use this form, also works :^) 
+##### ↓ ↓ ↓   Or use this form, also works :^) 
 <form method="post" action="https://forms.un-static.com/forms/1d2a737fbbe69c9a383da96282182bc4a3fbf87c"
     <label for="name" class="col-4 col-form-label"></label>
     <div class="col-8">
@@ -36,7 +36,7 @@ image:  '/otterferret1.jpg'
   </div>
   <div class="form-group row">
     <div class="offset-4 col-8">
-      <button name="submit" type="submit" class="btn btn-primary">🡺 Dispatch a carrier pigeon 🡸</button>
+      <button name="submit" type="submit" class="btn btn-primary">→ Dispatch a carrier pigeon ←</button>
     </div>
   </div>
   <div class="text-center">
