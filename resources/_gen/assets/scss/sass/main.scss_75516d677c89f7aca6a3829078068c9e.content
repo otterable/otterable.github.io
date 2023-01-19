@@ -1799,7 +1799,7 @@ table tr:hover {
         visibility: visible; }
       @media only screen and (max-width: 576px) {
         .top-nav .nav__list .nav__item .nav__link {
-          font-size: 12px; } }
+          font-size: 13px; } }
       .top-nav .nav__list .nav__item .nav__link::before {
         content: "";
         position: absolute;
