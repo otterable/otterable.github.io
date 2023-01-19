@@ -37,7 +37,7 @@
 .logo__image {
   max-height:  80px;
   @media only screen and (max-width: $mobile) {
-    max-height:  120px;
+    max-height:  80px;
   }
 }
 
@@ -119,6 +119,11 @@
             visibility: visible;
           }
         }
+		
+		@media only screen and (max-width: $mobile) {
+        font-size: 12px;
+		}
+		
         &::before {
           content: "";
           position: absolute;
@@ -132,7 +137,8 @@
           transition: all .25s;
           opacity: 0;
           visibility: hidden;
-          background-color: $brand-color;
+          background-color: $brand-color;  
+			  
         }
       }
     }
@@ -142,6 +148,7 @@
     display: inline;
 	padding-left: 35px;
 		  align-items: center;
+		  
 
 	
   }

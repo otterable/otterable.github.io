@@ -1736,7 +1736,7 @@ table tr:hover {
   max-height: 80px; }
   @media only screen and (max-width: 576px) {
     .logo__image {
-      max-height: 120px; } }
+      max-height: 80px; } }
 /* Nav */
 .main-nav {
   width: 100%;
@@ -1797,6 +1797,9 @@ table tr:hover {
       .top-nav .nav__list .nav__item .nav__link:hover::before {
         opacity: 1;
         visibility: visible; }
+      @media only screen and (max-width: 576px) {
+        .top-nav .nav__list .nav__item .nav__link {
+          font-size: 12px; } }
       .top-nav .nav__list .nav__item .nav__link::before {
         content: "";
         position: absolute;
