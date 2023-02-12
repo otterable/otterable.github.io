@@ -36,7 +36,7 @@ image:  '/otterferret1.jpg'
   </div>
   <div class="form-group row">
     <div class="offset-4 col-8">
-      <button name="submit" type="submit" class="btn btn-primary">→ Dispatch a carrier pigeon ←</button>
+      <button name="submit" type="submit" class="btn btn-primary">→ Send ←</button>
     </div>
   </div>
   <div class="text-center">
