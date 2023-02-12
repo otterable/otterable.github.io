@@ -1,5 +1,5 @@
 ---
-title:  FBA / Dropshipping
+title:  FBA
 image:  '/fba.jpg'
 ---
 ### I run two dropshipping stores + sell on Amazon.

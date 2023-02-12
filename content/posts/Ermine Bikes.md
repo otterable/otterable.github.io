@@ -5,6 +5,23 @@ title = "E-bikes/scoots"
 image= '/bike.png'
 +++
 
-### I sell custom 35 km/h otter e-bikes with a motor toggle.
 
-### I enjoy tinkering with e-bikes and e-scooters - install car horns, do paint jobs, connect random stuff to batteries.
+# I repair and modify E-Scooters.
+
+##### I can repair all aspects of E-Scooters, including:
+
+- general troubleshooting 
+- brake repair
+- tire exchange
+- anything to do with wires, really.
+
+##### I can offer following modifications:
+
+- install a car horn
+- install blinkers
+- spray paint / apply (and design) decals.
+- speed / acceleration increase
+
+##### My practice is mainly with Xiaomi scooters.
+
++ ### I sell custom 35 km/h otter e-bikes with a motor toggle.
