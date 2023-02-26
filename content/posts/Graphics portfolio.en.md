@@ -12,8 +12,8 @@ Additionally, I am also a graphite artist, and as a hobby, I create custom trans
 
 
 
-‎[Graphite art](https://ermine.de/posts/art/)
-‎[Transit maps](https://ermine.de/posts/transit-maps/)
+‎[> Graphite art <](https://ermine.de/posts/art/)
+‎[> Transit maps <](https://ermine.de/posts/transit-maps/)
 
 
 ## Illustrations
