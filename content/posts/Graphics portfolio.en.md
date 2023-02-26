@@ -7,8 +7,8 @@ image:  '/portf7.png'
 
 I am also a graphite artist, and create custom transit maps as a hobby. Click below to view.
 
-‎[Graphite art](URL "https://ermine.de/posts/art/")
-‎[Transit maps](URL "https://ermine.de/posts/transit-maps/")
+‎[Graphite art](https://ermine.de/posts/art/)
+‎[Transit maps](https://ermine.de/posts/transit-maps/)
 
 
 ## Illustrations
