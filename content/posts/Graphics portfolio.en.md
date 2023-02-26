@@ -18,7 +18,7 @@ Additionally, I am also a graphite artist, and as a hobby, I create custom trans
 
 ## Illustrations
 
-##### Book illustrations - Fennec
+##### Book illustrations
 
 ![Art](/portf1.png)
 
