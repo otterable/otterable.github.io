@@ -25,6 +25,9 @@ I am also a graphite artist, and create custom transit maps as a hobby. Click be
 
 ![Art](/portf12.png)
 
+![Art](/portf14.png)
+
+
 # Posters
 
 ![Art](/portf5.png)
@@ -34,3 +37,8 @@ I am also a graphite artist, and create custom transit maps as a hobby. Click be
 ![Art](/portf8.png)
 
 ![Art](/portf6.png)
+
+![Art](/portf13.png)
+
+![Art](/portf15.png)
+
