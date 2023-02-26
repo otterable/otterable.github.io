@@ -5,13 +5,20 @@ image:  '/portf5.png'
  
 ### You can see a bit of my portfolio here.
 
-I am also a graphite artist, and create custom transit maps as a hobby. Click below to view.
+I am a passionate artist with a specialization in book illustrations and posters. My work is infused with love and care, and I strive to create art that is both beautiful and meaningful.
+
+Additionally, I am also a graphite artist, and as a hobby, I create custom transit maps. Feel free to click the links below to view my other portfolios.
+
+
+
 
 ‎[Graphite art](https://ermine.de/posts/art/)
 ‎[Transit maps](https://ermine.de/posts/transit-maps/)
 
 
 ## Illustrations
+
+##### Book illustrations - Fennec
 
 ![Art](/portf1.png)
 
