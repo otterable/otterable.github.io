@@ -1,5 +1,5 @@
 ---
-title: pas op voor de otter!
+title: Attention femboy luster!
 ---
 ![Otter](/otterlogo.gif)
 
@@ -9,9 +9,9 @@ title: pas op voor de otter!
 
 ### Not developing any meaningful hobbies or interests.
 
-### If you are creating literally anything, (rust enjoyer, machine tinkerer, autocad, business) and not a slave to algorithms, amazing, let me know and let's be friends.
+### If you are creating literally anything (rust enjoyer, machine tinkerer, autocad, business), and not a slave to algorithms, amazing, let me know and let's be friends.
 
-![Discordeon](/discordeon.gif) ![Arrow](/arrow.gif)
+![Discordeon](/discordeon.gif) ![Arrow](/arrow.gif) ![Halal!](/halal.gif) 
 
 
-### otter#0369
+### >> otter#0369 <<
