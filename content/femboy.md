@@ -9,9 +9,10 @@ title: Attention femboy luster!
 
 ### Not developing any meaningful hobbies or interests.
 
-### If you are creating literally anything (rust enjoyer, machine tinkerer, autocad, business), and not a slave to algorithms, amazing, let me know and let's be friends.
+### If you are creating literally anything (rust enjoyer, machine tinkerer, autocad, artist, music that isn't beats, business), and not a slave to algorithms, amazing, let me know and let's be friends.
 
-![Discordeon](/discordeon.gif) ![Arrow](/arrow.gif) ![Halal!](/halal.gif) 
-
+![Discordeon](/discordeon2.gif) ![Arrow](/arrow2.gif)
 
 ### >> otter#0369 <<
+
+![Halal!](/halal2.gif) 
