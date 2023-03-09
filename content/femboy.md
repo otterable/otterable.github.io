@@ -1,16 +1,16 @@
 ---
-title: pas op voor de otter!
+title: pas op voor de otter, gen Z!
 ---
-/otterlogo.gif
+![Discordeon](/otterlogo.gif)
 
-### The majority of people in our generation spend hours each day on their phones.
+### The majority of our generation spends hours each day on their phones.
 
 ### Enslaved by algorithms and porn, which is just as destructive as the fucking phone.
 
 ### Not developing any meaningful hobbies or interests.
 
-### If you are creating literally anything. (rust enjoyer, machine tinkerer, autocad, business) and not a slave to algorithms, amazing, let me know and let's be friends.
+### If you are creating literally anything, (rust enjoyer, machine tinkerer, autocad, business) and not a slave to algorithms, amazing, let me know and let's be friends.
 
 ![Discordeon](/discordeon.gif)
 
-otter#0369
+### otter#0369
