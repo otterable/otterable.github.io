@@ -1,5 +1,5 @@
 ---
-title: pas op voor de otter, gen Z!
+title: pas op voor de otter!
 ---
 ![Otter](/otterlogo.gif)
 
