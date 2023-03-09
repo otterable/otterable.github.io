@@ -1,7 +1,7 @@
 ---
 title: pas op voor de otter, gen Z!
 ---
-![Discordeon](/otterlogo.gif)
+![Otter](/otterlogo.gif)
 
 ### The majority of our generation spends hours each day on their phones.
 
@@ -11,6 +11,7 @@ title: pas op voor de otter, gen Z!
 
 ### If you are creating literally anything, (rust enjoyer, machine tinkerer, autocad, business) and not a slave to algorithms, amazing, let me know and let's be friends.
 
-![Discordeon](/discordeon.gif)
+![Discordeon](/discordeon.gif) ![Arrow](/arrow.gif)
+
 
 ### otter#0369
