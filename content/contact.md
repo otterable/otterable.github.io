@@ -3,7 +3,7 @@ title:  ##
 image:  '/otterferret1.jpg'
 ---
 
-# I'll be happy to answer any questions and requests. sent to: majer@ermine.de
+# I'll be happy to answer any questions and requests sent to: majer@ermine.de
 
 ##### ↓ ↓ ↓   Or use this form, also works :^) 
 <form method="post" action="https://forms.un-static.com/forms/1d2a737fbbe69c9a383da96282182bc4a3fbf87c"
