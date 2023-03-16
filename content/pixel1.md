@@ -1,6 +1,5 @@
 ---
-title:
-image:  '/artAW.png'
+title: displate showcase.
 ---
 
 ![Art](/amp1.png)
