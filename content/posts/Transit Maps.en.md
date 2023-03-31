@@ -1,5 +1,5 @@
 ---
-title:  Custom transit maps
+title:  Art - Custom transit maps
 image:  '/vaporwave.jpg'
 ---
 ### I create highly stylized public transit maps in several standardized artstyles. 
