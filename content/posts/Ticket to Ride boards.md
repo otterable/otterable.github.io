@@ -1,5 +1,7 @@
 ---
 title:  Ticket to Ride expansions'
+image:  '/zug-1.jpg'
+
 ---
 ‎
 ### During April 2023 I created several custom expansions/boards for the board game Ticket to Ride.
@@ -9,6 +11,8 @@ title:  Ticket to Ride expansions'
 ### Examples:
 
 ![TicketToRide](/zug-1.jpg)
+
+![TicketToRide](/zug-1a.jpg)
 
 ![TicketToRide](/zug-2.png)
 
