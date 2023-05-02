@@ -1,5 +1,5 @@
 ---
-title:  Ticket to Ride expansions'
+title:  Ticket to Ride expansions
 image:  '/zug-1.jpg'
 
 ---
