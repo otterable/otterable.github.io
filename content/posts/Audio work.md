@@ -1,10 +1,13 @@
 ---
-title:  Music loops
+title:  Audio work
 image:  '/river.jpg'
 ---
 ‎
-‎
-### I like to create perfect (infinite) loops for songs worthy of it.
+### I do light audio "engineering". In praxis it means I basically create ambient soundscapes, most of the time:^).
+
+
+
+### I also like to create perfect (infinite) loops for songs worthy of it.
 
 ### Examples:
 ‎
