@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+    <style>
+        .tag-button {
+            margin-right: 10px;
+        }
+    </style>
+    <script>
+        function filterSounds(tag) {
+            var sounds = document.getElementsByClassName('sound-item');
+            for (var i = 0; i < sounds.length; i++) {
+                var sound = sounds[i];
+                if (tag === 'all' || sound.classList.contains(tag)) {
+                    sound.style.display = '';
+                } else {
+                    sound.style.display = 'none';
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>{{ .Title }}</h1>
+    <div>
+        <button class="tag-button" onclick="filterSounds('all')">All</button>
+        {{ range site.Data.tags }}
+            <button class="tag-button" onclick="filterSounds('{{ .name }}')">{{ .label }}</button>
+        {{ end }}
+    </div>
+    <div>
+        {{ range where .Site.RegularPages "Section" "sound" }}
+            {{ $tags := .Params.tags }}
+            <div class="sound-item {{ range $tags }}{{ . }} {{ end }}">
+                <h3>{{ .Title }}</h3>
+                <!-- Add the audio player for the sound file here -->
+            </div>
+        {{ end }}
+    </div>
+</body>
+</html>

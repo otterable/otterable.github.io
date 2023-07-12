@@ -3,28 +3,26 @@ title:  ##
 image:  '/otterferret1.jpg'
 ---
 
-# I'll be happy to answer any questions and requests sent to: majer@ermine.de
-
-##### ↓ ↓ ↓   Or use this form, also works :^) 
-<form method="post" action="https://forms.un-static.com/forms/1d2a737fbbe69c9a383da96282182bc4a3fbf87c"
-    <label for="name" class="col-4 col-form-label"></label>
+<form method="post" action="https://forms.un-static.com/forms/1d2a737fbbe69c9a383da96282182bc4a3fbf87c">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">Your Name:</label>
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-addon">
           <i class="fa fa-user"></i>
         </div>
-        <input id="name" name="name" placeholder="your name here" type="text" required="required" class="form-control">
+        <input id="name" name="name" placeholder="Enter your name" type="text" required="required" class="form-control">
       </div>
     </div>
   </div>
   <div class="form-group row">
-    <label for="email" class="col-4 col-form-label"></label>
+    <label for="email" class="col-4 col-form-label">Your E-mail:</label>
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-addon">
           <i class="fa fa-envelope"></i>
         </div>
-        <input id="email" name="email" placeholder="also need your e-mail" type="text" required="required" class="form-control">
+        <input id="email" name="email" placeholder="Enter your email" type="email" required="required" class="form-control">
       </div>
     </div>
   </div>
@@ -34,11 +32,9 @@ image:  '/otterferret1.jpg'
       <textarea id="message" name="message" cols="50" rows="5" required="required" class="form-control"></textarea>
     </div>
   </div>
-  <div class="form-group row">
+  <div class="form-group row text-center">
     <div class="offset-4 col-8">
-      <button name="submit" type="submit" class="btn btn-primary">→ Send ←</button>
+      <button name="submit" type="submit" class="btn btn-primary">Send</button>
     </div>
-  </div>
-  <div class="text-center">
   </div>
 </form>

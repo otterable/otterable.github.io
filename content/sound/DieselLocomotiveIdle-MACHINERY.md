@@ -1,0 +1,4 @@
+---
+title: DieselLocomotiveIdle
+genres: ["Machinery"]
+---

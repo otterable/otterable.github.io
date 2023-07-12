@@ -1,0 +1,11 @@
+
+
+{{ define "main" }}
+  <ul>
+    {{ range (readDir "content/notes") }}
+      {{ if hasSuffix .Name ".md" }}
+        <li><a href="{{ .Path }}">{{ .BaseName }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}

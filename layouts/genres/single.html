@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ .Title }}</title>
+</head>
+<body>
+    <h1>{{ .Title }}</h1>
+    {{ range where .Site.RegularPages "Section" "sound" }}
+        {{ if in .Params.genres .Section }}
+            <h3>{{ .Title }}</h3>
+            <!-- Add the audio player for the sound file here -->
+        {{ end }}
+    {{ end }}
+</body>
+</html>

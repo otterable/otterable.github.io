@@ -56,12 +56,18 @@
 .article__title {
   margin: 10px 0 15px;
   font-size: 35px;
-  a {
-  color:#fff600;
-  }
-  @media only screen and (max-width: $mobile) {
-    margin: 5px 0 25px;
-    font-size: 35px;  }
+  background-color: black; /* Set the background color to black */
+  padding: 10px; /* Add padding to create space between text and box edges */
+  display: inline-block; /* Set display property to inline-block to wrap the content in a box */
+}
+
+.article__title a {
+  color: #fff600;
+}
+
+@media only screen and (max-width: $mobile) {
+  margin: 5px 0 25px;
+  font-size: 35px;
 }
 
 .article__excerpt {

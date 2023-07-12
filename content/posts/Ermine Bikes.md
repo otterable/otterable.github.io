@@ -1,27 +1,16 @@
 +++
 draft = false
 resources = []
-title = "E-bikes/scoots"
-image= '/bike.png'
+title = "Cargobikes"
+image= '/tba8.jpg'
 +++
 
+<div style="text-align: center;">
 
-# I repair and modify E-Scooters.
+# Ermine Cargobikes are an affordable alternative to regular cargobikes.
 
-##### I can repair all aspects of E-Scooters, including:
+### We started building these just recently. Will be available soon.
 
-- general troubleshooting 
-- brake repair
-- tire exchange
-- anything to do with wires, really.
+TBD 8/2023
 
-##### I can offer following modifications:
-
-- install a car horn
-- install blinkers
-- spray paint / apply (and design) decals.
-- speed / acceleration increase
-
-##### My practice is mainly with Xiaomi scooters.
-
-+ ### I sell custom 35 km/h otter e-bikes with a motor toggle.
+</div>

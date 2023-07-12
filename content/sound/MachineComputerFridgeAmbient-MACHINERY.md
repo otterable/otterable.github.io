@@ -1,0 +1,4 @@
+---
+title: MachineComputerFridgeAmbient
+genres: ["Machinery"]
+---

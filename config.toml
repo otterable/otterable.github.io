@@ -10,9 +10,18 @@ defaultContentLanguage = 'en'
      title = "Ermine.de"
 
 
+[[params.plugins.js]]
+link = "js/search.js"
 
-
-
+[search]
+enable = true
+primary_color = "#ce8460"
+include_sections = ["post", "shop"] # if `include_sections` empty, then section's will come from `mainSections`
+include_all_sections = false # if `include_all_sections` is true, then comment out the `include_sections`
+show_image = false
+show_description = false
+show_tags = false
+show_categories = false
 
 # Main Menu
 [menu]
@@ -22,23 +31,15 @@ defaultContentLanguage = 'en'
     url = "/contact"
     weight = 1
 
-  [[menu.main]]
-    identifier = "buy"
-    name = "Get an Otter e-bike ♥"
-    url = "/buyotterbike"
-    weight = 2
-	
-  [[menu.main]]
-    identifier = "art"
-    name = "Request art/maps ♥"
-    url = "/getart"
-    weight = 3
-	
+
+	[taxonomies]
+  genre = "genres"
+
 
 
 [params]
   logo = "/images/ottor2.png" # You can add own logo. For example "/images/logo.png".
-  description = "Aditu is a stylish and modern dark theme with a clean and unique design."
+  description = "Ermine.de"
 
 
 
