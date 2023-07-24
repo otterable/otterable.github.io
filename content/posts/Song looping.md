@@ -1,11 +1,9 @@
 ---
 title:  Auto-Songlooping website
-image:  '/tba71.jpg'
+image:  '/musicloop.png'
 
 ---
 ‎
-‎<div class="centered-text">
+A simple site for generating perfect song loops. Supports batch file upload.
 
-TBD 8/2023
-
-‎</div>
+### [>>songloops.xyz<<](https://songloops.xyz)
