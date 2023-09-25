@@ -1,75 +1,21 @@
-baseURL = "https://otterable.github.io/"
-paginate = 9
+baseURL = "https://otterable3.github.io"
 
-#-------------------------------
-defaultContentLanguage = 'en'
-[languages]
-  [languages.en]
-     title = "Ermine.de"
-  [languages.de]
-     title = "Ermine.de"
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
 
 
-[[params.plugins.js]]
-link = "js/search.js"
+# The browser tab name
+title = "We've moved :^)"
 
-[search]
-enable = true
-primary_color = "#ce8460"
-include_sections = ["post", "shop"] # if `include_sections` empty, then section's will come from `mainSections`
-include_all_sections = false # if `include_all_sections` is true, then comment out the `include_sections`
-show_image = false
-show_description = false
-show_tags = false
-show_categories = false
+# In order to add version information in the page's footer set to true.
+# enableGitInfo = true
 
-# Main Menu
-[menu]
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact"
-    weight = 1
-
-
-	[taxonomies]
-  genre = "genres"
-
-
-
+# Theme-specific variables `.Site.Params.myParamName`
 [params]
-  logo = "/images/ottor2.png" # You can add own logo. For example "/images/logo.png".
-  description = "Ermine.de"
 
-
-
-  #-------------------------------
-  # Hero Settings
-  [params.hero]
-
-  # Example of adding a new link to the author section and footer:
-  # [[params.social]]
-  #   icon = "ion-logo-vimeo"
-  #   name = "Vimeo"
-  #   link = "https://vimeo.com"
-
-  # Other icons can be found at https://ionicons.com/v4/
-
-  #-------------------------------
-  
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-
-[markup.highlight]
-  codeFences = true
-  guessSyntax = true
-  noClasses = false
+   
+    
+    [params.meta]
+        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
